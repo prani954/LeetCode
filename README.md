@@ -16,14 +16,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/prani954/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prani954/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/prani954/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/prani954/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/prani954/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/prani954/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/prani954/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/prani954/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
