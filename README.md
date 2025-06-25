@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/prani954/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2048-build-array-from-permutation](https://github.com/prani954/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prani954/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prani954/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prani954/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/prani954/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prani954/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prani954/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prani954/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
