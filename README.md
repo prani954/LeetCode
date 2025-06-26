@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prani954/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/prani954/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prani954/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/prani954/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/prani954/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prani954/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/prani954/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prani954/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prani954/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prani954/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/prani954/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prani954/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/prani954/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/prani954/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/prani954/LeetCode/tree/master/0868-push-dominoes) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prani954/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prani954/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/prani954/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/prani954/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/prani954/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prani954/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
