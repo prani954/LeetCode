@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/prani954/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prani954/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/prani954/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prani954/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prani954/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prani954/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/prani954/LeetCode/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prani954/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prani954/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prani954/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/prani954/LeetCode/tree/master/0075-sort-colors) |
 | [0594-longest-harmonious-subsequence](https://github.com/prani954/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prani954/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prani954/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prani954/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prani954/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prani954/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
