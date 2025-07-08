@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prani954/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prani954/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prani954/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/prani954/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/prani954/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/prani954/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prani954/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prani954/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/prani954/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prani954/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/prani954/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prani954/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prani954/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/prani954/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/prani954/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prani954/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/prani954/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/prani954/LeetCode/tree/master/0868-push-dominoes) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/prani954/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prani954/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prani954/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/prani954/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
