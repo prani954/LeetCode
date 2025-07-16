@@ -312,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prani954/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/prani954/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
