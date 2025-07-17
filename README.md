@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/prani954/LeetCode/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/prani954/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/prani954/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/prani954/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
