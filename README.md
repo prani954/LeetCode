@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prani954/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prani954/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/prani954/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prani954/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prani954/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/prani954/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0868-push-dominoes](https://github.com/prani954/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prani954/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prani954/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/prani954/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prani954/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/prani954/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/prani954/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prani954/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/prani954/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/prani954/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/prani954/LeetCode/tree/master/1827-invalid-tweets) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/prani954/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
