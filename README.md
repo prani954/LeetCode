@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prani954/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/prani954/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/prani954/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prani954/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/prani954/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/prani954/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/prani954/LeetCode/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/prani954/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/prani954/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/prani954/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prani954/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/prani954/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/prani954/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/prani954/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/prani954/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/prani954/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/prani954/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/prani954/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
