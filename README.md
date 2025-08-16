@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/prani954/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/prani954/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/prani954/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/prani954/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/prani954/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prani954/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/prani954/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/prani954/LeetCode/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/prani954/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/prani954/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/prani954/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/prani954/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/prani954/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
