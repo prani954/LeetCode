@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prani954/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prani954/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/prani954/LeetCode/tree/master/0135-candy) |
+| [0474-ones-and-zeroes](https://github.com/prani954/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/prani954/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/prani954/LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/prani954/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/prani954/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0868-push-dominoes](https://github.com/prani954/LeetCode/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/prani954/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/prani954/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/prani954/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/prani954/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/prani954/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/prani954/LeetCode/tree/master/0868-push-dominoes) |
